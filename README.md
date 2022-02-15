@@ -6,6 +6,6 @@ In this lab we built a circuit and attached it to our nucleo in order to record 
 
 ![Code](/../main/images/code.PNG)
 
-![MATLAB Graph](/../main/images/code graph.PNG)
+![MATLAB Graph](/../main/images/code_graph.PNG)
 
 The calculated time constant that we wanted would be equal to the capacitor times the resistor and with a capacitor of 3.3 uF and a resistor of 6k ohm out calculated time constant would be about 0.0198 seconds. However, the calculated time constant that we got from our code was about 0.275 seconds. This means that the type constant generated from our code is about a factor of 10 off however they are fairly similar in number so that I might just be something to do with the fact that our grass starts at two instead of zero.
